@@ -6,7 +6,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/App%20Dev%20Setting%20up%20a%20Development%20Environment%20Python/gsp183.sh
+curl -LO raw.githubusercontent.com/Arcade-Level-1/main/Dev%20Delight!/App%20Dev%3A%20Setting%20up%20a%20Development%20Environment%20-%20Python/gsp183.sh
 
 sudo chmod +x gsp183.sh
 
